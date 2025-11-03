@@ -1,0 +1,3 @@
+# Displaying the output of the python of this file
+
+print("Hello world in python")
